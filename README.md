@@ -22,5 +22,5 @@ Also: `C` `C++` `Java` `VHDL`
 **Final-year internship (PFE) starting Feb/Mar 2027** in Computer Vision or Deep Learning — Alps region (France/Switzerland) or Toulouse.
 
 #### Contact
-- [LinkedIn](https://linkedin.com/in/maelpierron) *(to be created)*
+- [LinkedIn](https://www.linkedin.com/in/mael-pierron-54833b36a)
 - Email: mael.pierron@laposte.net
