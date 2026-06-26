@@ -6,7 +6,7 @@ Specializing in **Computer Vision & Deep Learning**
 ---
 
 #### Current Work
-**ALCEO** at IIT-CCHT — Segmentation of archaeological looting pits on tiled aerial imagery, in 0-shot / few-shot, using **SAM 3**. Collaboration with **Interpol**.
+**ALCEO** at IIT-CCHT — Segmentation of archaeological looting pits on tiled aerial imagery, in 0-shot / few-shot, using **SAM 3**. in collaboration with European law enforcement.
 
 #### Stack
 `Python` `PyTorch` `Ultralytics` `Transformers` `OpenCV` `NumPy`
